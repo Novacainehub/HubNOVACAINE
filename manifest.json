@@ -1,0 +1,21 @@
+{
+  "name": "NOVACAINEhub",
+  "short_name": "NOVACAINE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5faff",
+  "theme_color": "#8a4dff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Picsart_25-07-16_08-57-08-617.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Picsart_25-07-16_08-57-08-617.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
